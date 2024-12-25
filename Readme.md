@@ -12,7 +12,7 @@ A simple and efficient Todo App built to help users manage their daily tasks. Th
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React, Bootstrap, HTML, CSS, JavaScript
 - **Backend**: Node.js with Express
 - **Database**: MongoDB
 
@@ -58,8 +58,10 @@ Todo/
 ├── public/
 │   ├── css/
 │   ├── js/
-├── views/
-│   ├── index.ejs
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
 ├── routes/
 │   ├── tasks.js
 ├── models/
